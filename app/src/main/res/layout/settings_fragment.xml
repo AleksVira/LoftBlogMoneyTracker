@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/Container.Background">
 
+
+
     <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#F7F7F7">
+        android:background="@color/white"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Здесь будут настройки"
+            android:id="@+id/textView"
+            android:textColor="@color/dark_primary"
+            android:layout_gravity="center" />
 
         <ListView
             android:id="@+id/listview"
@@ -13,6 +24,6 @@
             android:layout_height="match_parent"
             android:divider="@android:color/transparent"
             android:dividerHeight="@dimen/dividerHeight" />
-
     </LinearLayout>
+
 </RelativeLayout>

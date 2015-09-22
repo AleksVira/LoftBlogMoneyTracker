@@ -4,5 +4,12 @@
     <string name="name_field">Name</string>
     <string name="sum_field">Sum</string>
     <string name="date_field">Date</string>
-    <!--<string name="my_app_name">MyMoneyTracker</string>-->
+
+    <string name="nav_drawer_expenses">Траты</string>
+    <string name="nav_drawer_categories">Категории</string>
+    <string name="nav_drawer_statistics">Статистика</string>
+    <string name="nav_drawer_settings">Настройки</string>
+    <string name="mymail">alekskolr@gmail.com</string>
+    <string name="myname">Алексей Петров</string>
+
 </resources>
