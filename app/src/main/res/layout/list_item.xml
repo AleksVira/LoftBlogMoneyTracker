@@ -38,7 +38,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignRight="@+id/name_text"
             android:layout_alignEnd="@+id/name_text"
-            android:gravity="right" />
+            android:gravity="end" />
 
         <TextView
             android:id="@+id/sum_text"

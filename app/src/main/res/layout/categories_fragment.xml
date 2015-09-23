@@ -19,7 +19,7 @@
             android:layout_alignParentTop="false"
             android:layout_gravity="top|center_horizontal"
             android:gravity="center_horizontal"
-            android:text="Здесь будут категории"
+            android:text="@string/cat_cap"
             android:textColor="@color/dark_primary" />
 
         <ListView

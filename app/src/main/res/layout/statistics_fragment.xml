@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Здесь будет статистика"
+            android:text="@string/statistic_cap"
             android:id="@+id/textView"
             android:textColor="@color/dark_primary"
             android:layout_gravity="center" />

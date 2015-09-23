@@ -21,8 +21,6 @@
         app:layout_behavior="p.loftblogmoneytracker.ScrollFABBehaviour"
         />
 
-        <!--app:layout_anchor="@id/recycler_view_content"-->
-        <!--app:layout_anchorGravity="end|bottom"-->
 
 
 </android.support.design.widget.CoordinatorLayout>

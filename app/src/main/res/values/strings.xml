@@ -11,9 +11,8 @@
     <string name="nav_drawer_settings">Настройки</string>
     <string name="mymail">alekskolr@gmail.com</string>
     <string name="myname">Алексей Петров</string>
-    <string name="summa_add">Сумма</string>
-    <string name="note_add">Примечание</string>
-    <string name="category_add">Категория</string>
-    <string name="data_add">Дата</string>
+    <string name="cat_cap">Здесь будут категории</string>
+    <string name="settings_cap">Здесь будут настройки</string>
+    <string name="statistic_cap">Здесь будет статистика</string>
 
 </resources>
